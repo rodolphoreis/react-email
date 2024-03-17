@@ -43,6 +43,10 @@ const MyEmail = () => {
 
 export default MyEmail;
 ```
+## Exemplo do Email:
+
+[![](https://github.com/rodolphoreis/react-email/raw/main/email.png)](https://exemplo.com/link)
+
 
 ## Documentação
 
